@@ -24,7 +24,7 @@
         "cover": "istanbul cover node_modules/mocha/bin/_mocha && opener ./coverage/lcov-report/lib/chai-as-promised.js.html"
     },
     "peerDependencies": {
-        "chai": ">= 1.7.0 < 3"
+        "chai": ">= 1.7.0 < 4"
     },
     "devDependencies": {
         "chai": "^2.0.0",
